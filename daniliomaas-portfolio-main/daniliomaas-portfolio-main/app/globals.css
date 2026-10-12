@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-smooth { scroll-behavior: auto !important; }
+.lenis.lenis-stopped { overflow: hidden; }
+
+@layer base {
+  html { background: #f4efe7; -webkit-text-size-adjust: 100%; }
+  body {
+    @apply bg-cream font-sans text-ink antialiased;
+    font-size: clamp(16px, 1.1vw, 18px);
+    line-height: 1.6;
+    overflow-x: hidden;
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+  h1, h2, h3, h4 { @apply font-serif font-normal; letter-spacing: -0.02em; line-height: 0.95; margin: 0; }
+  ::selection { background: #b4502d; color: #fff; }
+  :focus-visible { outline: 2px solid #b4502d; outline-offset: 4px; border-radius: 4px; }
+}
+
+@layer components {
+  .wrap { @apply mx-auto w-full max-w-page px-gutter; }
+  .hint { @apply mt-3 block text-sm text-mute; }
+  .pill { @apply inline-flex items-center rounded-full border border-line px-4 py-2 text-[15px] bg-card; }
+  .btn-dark {
+    @apply inline-flex items-center gap-3 rounded-full bg-ink px-8 py-5 font-medium text-cream transition-colors duration-300 hover:bg-terra;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}

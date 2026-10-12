@@ -1,0 +1,22 @@
+UPDATE 2: Why section redesign + mobile fixes
+
+1. Unzip into your project root (it uses the folder danilio-maas-site/) and overwrite the files.
+2. DELETE this file: styles/orbit.css (no longer used).
+3. Run: npm run typecheck && npm run build
+
+Replaced files:
+ - components/WhyCompanies.tsx
+ - components/ContactStage.tsx
+ - components/ContactScene.tsx
+ - components/Navbar.tsx
+ - components/Hero.tsx
+ - components/ContentCreation.tsx
+ - components/International.tsx
+ - components/ContactSection.tsx
+ - components/PasswordGate.tsx
+ - components/Footer.tsx
+ - app/layout.tsx
+ - tailwind.config.ts
+ - locales/en.json
+ - locales/nl.json
+ - README.md

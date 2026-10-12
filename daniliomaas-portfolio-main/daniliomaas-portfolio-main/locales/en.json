@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "title": "Danilio Maas | Marketing & Communication",
+    "description": "Personal website of Danilio Maas: marketing and communication intern in Venlo, with ambitions in sport marketing, digital innovation and AI. Open to internships abroad."
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "language": "Language",
+    "back": "Back to home"
+  },
+  "nav": {
+    "story": "Story",
+    "journey": "Journey",
+    "craft": "Craft",
+    "why": "Why me",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Next-generation marketing and communication, with a hands-on work ethic.",
+    "role": "Marketing & Communication intern",
+    "location": "Venlo · Looking for an internship abroad",
+    "alt": "Portrait of Danilio Maas outside Bibliotheek Venlo"
+  },
+  "about": {
+    "manifesto": "I am early in my career, and that is my advantage. I learn fast, I work hard, and I see marketing the way my generation lives it: quick, visual, social and digital.",
+    "title": "From the dish pit to the marketing desk.",
+    "paragraphs": [
+      "I grew up in Venlo and started in a lunchroom kitchen, washing dishes. Within a year I was preparing hot and cold dishes. Since then I have worked in kitchens, restaurants and bars, mostly on weekends and in the holidays.",
+      "That taught me how to read people, stay calm when it gets busy and finish what I start. It is where my communication began.",
+      "Now I study Marketing & Communication at De Rooi Pannen and support the marketing and communication team at Bibliotheek Venlo with content, promotion and campaign work. Next, I want to learn abroad."
+    ],
+    "skills": [
+      "Adobe",
+      "Canva",
+      "Teamwork",
+      "Independent work",
+      "Problem solving"
+    ],
+    "photoAlt": "Danilio Maas"
+  },
+  "craft": {
+    "title": "Craft",
+    "hint": "What I focus on. Tap a row to read more.",
+    "rows": [
+      {
+        "title": "Marketing",
+        "text": "Audience insight and campaign thinking that turns a brief into one clear idea."
+      },
+      {
+        "title": "Communication",
+        "text": "Short, human messages that stay consistent across every channel."
+      },
+      {
+        "title": "Sport Marketing",
+        "text": "Fan-first activations and partnerships where movement meets brand."
+      },
+      {
+        "title": "AI",
+        "text": "I use AI as a tool, not a shortcut: to research faster, test more ideas and sharpen content. The thinking stays mine."
+      },
+      {
+        "title": "Digital Innovation",
+        "text": "Trying new formats and technology early, then testing what works for real people."
+      },
+      {
+        "title": "Branding",
+        "text": "Identity with a point of view, visual and verbal."
+      },
+      {
+        "title": "Content Creation",
+        "text": "Photo, short video and copy, made for the platform it lives on."
+      }
+    ]
+  },
+  "why": {
+    "title": "Why companies choose me",
+    "hint": "Eight things I bring to a team.",
+    "proof": "Proof",
+    "summary": "A creative communicator with a strategic mind and the work ethic of years in hospitality.",
+    "items": [
+      {
+        "title": "Creativity",
+        "line": "I look for the angle people have not seen yet.",
+        "proof": "Creating content and promotion campaigns at Bibliotheek Venlo."
+      },
+      {
+        "title": "Communication",
+        "line": "Clear and human, in person and online.",
+        "proof": "Years of guest contact in kitchens, restaurants and bars."
+      },
+      {
+        "title": "Marketing mindset",
+        "line": "I think in audiences, channels and results.",
+        "proof": "MBO 4 Marketing & Communication, applied in a real internship."
+      },
+      {
+        "title": "Strategic thinking",
+        "line": "I ask why before I design the what.",
+        "proof": "Economics & Entrepreneurship at school, marketing now."
+      },
+      {
+        "title": "Digital skills",
+        "line": "Canva and Adobe, content and social media.",
+        "proof": "Tools I already use to make content and campaign material."
+      },
+      {
+        "title": "Adaptability",
+        "line": "Many shifts and roles taught me to switch fast.",
+        "proof": "Cook, waiter and bartender, depending on what the team needs."
+      },
+      {
+        "title": "Curiosity",
+        "line": "I try new tools and formats early.",
+        "proof": "Using AI and digital tools to work smarter."
+      },
+      {
+        "title": "Ambition",
+        "line": "I want to grow fast and give back.",
+        "proof": "From dishwasher to cook in a year, bar shifts within months."
+      }
+    ]
+  },
+  "intl": {
+    "kicker": "International ambition",
+    "title1": "Next stop:",
+    "title2": "abroad.",
+    "text": "I want to do an internship in another country, in a team that brings sport, brand and innovation together. I bring an open mind, a growth mindset and a willingness to learn quickly, in a new place and a new language of work.",
+    "chips": [
+      "Open mindset",
+      "Growth mindset",
+      "Adaptable",
+      "Eager to learn"
+    ]
+  },
+  "journey": {
+    "title": "Career Journey",
+    "sub": "Study and real-world work, in chronological order.",
+    "labels": {
+      "resp": "Responsibilities",
+      "highlight": "Highlight",
+      "study": "Study",
+      "work": "Work",
+      "current": "Current internship"
+    },
+    "cv": {
+      "button": "Download CV",
+      "note": "PDF · 1 page · updated October 2026",
+      "more": "Want to know more?"
+    },
+    "edu": {
+      "title": "Education",
+      "sub": "Study and study-related experience",
+      "stat1": "years of study",
+      "stat2": "internship, running now",
+      "items": [
+        {
+          "role": "VMBO-TL, Economics & Entrepreneurship",
+          "org": "College Den Hulster, Venlo",
+          "date": "Sep 2021 – May 2025",
+          "resp": [
+            "Economics & Entrepreneurship profile in years 3 and 4."
+          ],
+          "highlight": "Moved from Havo/Vwo to VMBO-TL and completed it comfortably."
+        },
+        {
+          "role": "MBO 4 Marketing & Communication",
+          "org": "De Rooi Pannen",
+          "date": "Sep 2025 – present",
+          "resp": [
+            "Marketing, communication and campaign assignments."
+          ],
+          "highlight": "Applying the lessons directly in a real internship."
+        },
+        {
+          "role": "Marketing & Communication Intern",
+          "org": "Bibliotheek Venlo",
+          "date": "Sep 2026 – present",
+          "resp": [
+            "Content creation",
+            "Promotion campaigns",
+            "Communication output"
+          ],
+          "highlight": "Putting my studies into practice inside a real marketing team.",
+          "current": true
+        }
+      ]
+    },
+    "work": {
+      "title": "Work experience",
+      "sub": "Real jobs in real teams",
+      "stat1": "years of work experience",
+      "stat2": "workplaces",
+      "items": [
+        {
+          "role": "Dishwasher, then cook",
+          "org": "Tref Lunchroom, Venlo",
+          "date": "Mar 2023 – Aug 2024",
+          "resp": [
+            "Every Sunday, plus weekdays in the holidays."
+          ],
+          "highlight": "Promoted within a year to hot and cold dishes."
+        },
+        {
+          "role": "Waiter / bartender",
+          "org": "Plein 7, Venlo",
+          "date": "Sep 2024 – Aug 2025",
+          "resp": [
+            "Guest service and bar shifts, weekends and holidays."
+          ],
+          "highlight": "Trusted with regular bar shifts after a few months."
+        },
+        {
+          "role": "Summer jobs",
+          "org": "BCS, Baarlo and Baantje staffing agency",
+          "date": "Summer 2025",
+          "resp": [
+            "Full weekdays at BCS, evening shifts via the agency, weekends at Plein 7."
+          ],
+          "highlight": "Kept three jobs running at once."
+        },
+        {
+          "role": "Waiter",
+          "org": "Wok Palace, Kessel",
+          "date": "Nov 2025 – Jan 2026",
+          "resp": [
+            "Service on Sundays and Wednesdays, next to school."
+          ],
+          "highlight": "Kept work and study in balance."
+        },
+        {
+          "role": "Cook / waiter",
+          "org": "Tramhalte, Blerick",
+          "date": "Feb 2026 – present",
+          "resp": [
+            "Started directly in the kitchen."
+          ],
+          "highlight": "Often called in on the floor when the team is short."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "t1": "Let's build",
+    "t2": "something",
+    "t3": "people remember.",
+    "sub": "For internships, projects and conversations about marketing, sport and AI.",
+    "button": "Start a conversation",
+    "page": "Contact page"
+  },
+  "contact": {
+    "t1": "Let's create",
+    "t2": "something meaningful.",
+    "intro": "I'm Danilio, a marketing and communication intern from Venlo. If your team cares about brand, sport and digital ideas, and has room for someone who works hard and learns fast, I'd like to hear from you.",
+    "primary": "Primary contact · write to me here first",
+    "availTitle": "Available for",
+    "availText": "Internships, especially abroad, and conversations about projects.",
+    "locTitle": "Location",
+    "locText": "Venlo, Netherlands. Open to working abroad.",
+    "formTitle": "Tell me what you have in mind.",
+    "topics": [
+      {
+        "value": "Internship",
+        "label": "Internship"
+      },
+      {
+        "value": "Job opportunity",
+        "label": "Job"
+      },
+      {
+        "value": "Project or collaboration",
+        "label": "Project"
+      },
+      {
+        "value": "Just saying hi",
+        "label": "Say hi"
+      }
+    ],
+    "name": "Your name",
+    "org": "Company or organisation",
+    "email": "Your email",
+    "message": "Message",
+    "send": "Send message",
+    "note": "This opens your email app with the message ready to send.",
+    "sent": "Your email app should open now. If not, write to me directly.",
+    "greeting": "Hi Danilio,",
+    "regards": "Kind regards,",
+    "subject": "Contact via website",
+    "stage": {
+      "tag": "Current internship",
+      "org": "Bibliotheek Venlo",
+      "role": "Marketing & Communication intern. Content, campaigns and community.",
+      "future": "Future marketer",
+      "creative": "Creative communicator",
+      "nextTitle": "Next: abroad",
+      "nextText": "An internship in sport, brand or digital innovation.",
+      "focusTitle": "Focus areas",
+      "focusText": "Sport marketing, AI & innovation, content creation and community engagement.",
+      "badge": "Open for internships · Venlo · Netherlands · "
+    }
+  },
+  "gate": {
+    "welcome": "Welcome",
+    "tagline": "A personal journey through marketing, creativity and innovation.",
+    "label": "Password",
+    "enter": "Enter the experience",
+    "error": "That's not it. Try again.",
+    "nosubtle": "This browser can't verify the password here.",
+    "need": "Need access?",
+    "request": "Request the password",
+    "subject": "Access request"
+  },
+  "footer": {
+    "role": "Marketing & Communication",
+    "rights": "All rights reserved."
+  }
+}
