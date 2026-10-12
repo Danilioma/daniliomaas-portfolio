@@ -20,31 +20,30 @@
   border: 1px dashed rgba(0, 0, 0, 0.18);
   border-radius: 50%;
 }
-.orb-ring {
-  position: absolute;
-  inset: 0;
-  animation: spin360 90s linear infinite;
-}
+/* Node geometry. The rotation itself is driven by Framer Motion (one shared motion value),
+   so there are no CSS rotation animations on the nodes or their labels. */
 .orb-nd {
-  --rr: 0px;
   position: absolute;
   left: 50%;
   top: 50%;
   width: 0;
   height: 0;
-  transform: rotate(var(--a)) translateX(var(--rr));
-  transition: --rr 1.5s cubic-bezier(0.2, 0.8, 0.1, 1);
-  transition-delay: calc(var(--i) * 0.09s);
 }
-.orb.is-in .orb-nd {
+.orb-arm {
+  --rr: 0px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translateX(var(--rr));
+  transition: --rr 1.5s cubic-bezier(0.2, 0.8, 0.1, 1);
+}
+.orb.is-in .orb-arm {
   --rr: var(--R);
 }
 .orb-btn {
   position: absolute;
   left: 0;
   top: 0;
-  transform: translate(-50%, -50%) rotate(calc(-1 * var(--a)));
-  animation: unspin 90s linear infinite;
   white-space: nowrap;
   cursor: pointer;
   border: 1px solid rgba(0, 0, 0, 0.14);
@@ -63,19 +62,8 @@
   color: #fff;
   scale: 1.12;
 }
-.orb:hover .orb-ring,
-.orb:hover .orb-btn,
-.orb.is-held .orb-ring,
-.orb.is-held .orb-btn {
-  animation-play-state: paused;
-}
-@keyframes unspin {
-  from { transform: translate(-50%, -50%) rotate(calc(-1 * var(--a))); }
-  to { transform: translate(-50%, -50%) rotate(calc(-1 * var(--a) - 360deg)); }
-}
 @keyframes spin360 { to { transform: rotate(360deg); } }
 
 @media (prefers-reduced-motion: reduce) {
-  .orb-ring, .orb-btn { animation: none !important; }
-  .orb-nd { --rr: var(--R); transition: none; }
+  .orb-arm { --rr: var(--R); transition: none; }
 }
