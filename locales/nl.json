@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "title": "Danilio Maas | Marketing & Communicatie",
+    "description": "Persoonlijke website van Danilio Maas: stagiair marketing en communicatie in Venlo, met ambities in sportmarketing, digitale innovatie en AI. Open voor stages in het buitenland."
+  },
+  "a11y": {
+    "skip": "Ga naar de inhoud",
+    "language": "Taal",
+    "back": "Terug naar home"
+  },
+  "nav": {
+    "story": "Verhaal",
+    "journey": "Mijn reis",
+    "craft": "Vakgebied",
+    "why": "Waarom ik",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Marketing en communicatie van de nieuwe generatie, met een echte aanpakkersmentaliteit.",
+    "role": "Stagiair Marketing & Communicatie",
+    "location": "Venlo · Op zoek naar een stage in het buitenland",
+    "alt": "Portret van Danilio Maas bij Bibliotheek Venlo"
+  },
+  "about": {
+    "manifesto": "Ik sta nog aan het begin van mijn carrière en juist dat is mijn kracht. Ik leer snel, werk hard en bekijk marketing zoals mijn generatie deze beleeft: snel, visueel, sociaal en digitaal.",
+    "title": "Van de afwas naar de marketingafdeling.",
+    "paragraphs": [
+      "Ik groeide op in Venlo en begon in de keuken van een lunchroom, met afwassen. Binnen een jaar maakte ik warme en koude gerechten. Sindsdien werkte ik in keukens, restaurants en bars, vooral in weekenden en vakanties.",
+      "Daar leerde ik mensen te lezen, kalm te blijven als het druk wordt en af te maken wat ik begin. Daar begon mijn communicatie.",
+      "Nu studeer ik Marketing & Communicatie aan De Rooi Pannen en ondersteun ik het marketing- en communicatieteam van Bibliotheek Venlo met content, promotie en campagnewerk. Daarna wil ik leren in het buitenland."
+    ],
+    "skills": [
+      "Adobe",
+      "Canva",
+      "Teamwork",
+      "Zelfstandig werken",
+      "Probleemoplossend denken"
+    ],
+    "photoAlt": "Danilio Maas"
+  },
+  "craft": {
+    "title": "Vakgebied",
+    "hint": "Waar ik me op richt. Tik op een regel voor meer.",
+    "rows": [
+      {
+        "title": "Marketing",
+        "text": "Doelgroepinzicht en campagnedenken dat een opdracht omzet in één helder idee."
+      },
+      {
+        "title": "Communicatie",
+        "text": "Korte, menselijke boodschappen die op elk kanaal consistent blijven."
+      },
+      {
+        "title": "Sportmarketing",
+        "text": "Activaties met de fan voorop en samenwerkingen waar beweging en merk samenkomen."
+      },
+      {
+        "title": "AI",
+        "text": "Ik gebruik AI als hulpmiddel, niet als sluiproute: om sneller te onderzoeken, meer ideeën te testen en content te verscherpen. Het denkwerk blijft van mij."
+      },
+      {
+        "title": "Digitale innovatie",
+        "text": "Nieuwe formats en technologie vroeg uitproberen en testen wat echt werkt voor mensen."
+      },
+      {
+        "title": "Branding",
+        "text": "Identiteit met een eigen visie, visueel en verbaal."
+      },
+      {
+        "title": "Contentcreatie",
+        "text": "Foto, korte video en tekst, gemaakt voor het platform waar het op staat."
+      }
+    ]
+  },
+  "why": {
+    "title": "Waarom bedrijven voor mij kiezen",
+    "hint": "Acht dingen die ik in een team breng.",
+    "proof": "In de praktijk",
+    "tap": "Tik op een woord in de baan om te ontdekken.",
+    "items": [
+      {
+        "title": "Creativiteit",
+        "line": "Ik zoek de invalshoek die mensen nog niet zagen.",
+        "proof": "Content en promotiecampagnes maken bij Bibliotheek Venlo."
+      },
+      {
+        "title": "Communicatie",
+        "line": "Helder en menselijk, persoonlijk en online.",
+        "proof": "Jarenlang gastcontact in keukens, restaurants en bars."
+      },
+      {
+        "title": "Marketinginzicht",
+        "line": "Ik denk in doelgroepen, kanalen en resultaten.",
+        "proof": "MBO 4 Marketing & Communicatie, toegepast in een echte stage."
+      },
+      {
+        "title": "Strategisch denken",
+        "line": "Ik vraag eerst waarom, voordat ik het wat bedenk.",
+        "proof": "Economie & Ondernemen op school, nu marketing."
+      },
+      {
+        "title": "Digitale vaardigheden",
+        "line": "Canva en Adobe, content en social media.",
+        "proof": "Tools die ik nu al gebruik voor content en campagnemateriaal."
+      },
+      {
+        "title": "Flexibiliteit",
+        "line": "Veel diensten en rollen leerden me snel schakelen.",
+        "proof": "Kok, ober en barman, afhankelijk van wat het team nodig heeft."
+      },
+      {
+        "title": "Nieuwsgierigheid",
+        "line": "Ik probeer nieuwe tools en formats vroeg uit.",
+        "proof": "AI en digitale tools gebruiken om slimmer te werken."
+      },
+      {
+        "title": "Ambitie",
+        "line": "Ik wil snel groeien en iets terugdoen.",
+        "proof": "Van afwas naar kok in een jaar, barshifts binnen enkele maanden."
+      }
+    ]
+  },
+  "intl": {
+    "kicker": "Internationale ambitie",
+    "title1": "Volgende halte:",
+    "title2": "buitenland.",
+    "text": "Ik wil stage lopen in een ander land, in een team dat sport, merk en innovatie samenbrengt. Ik breng een open geest, een groeimindset en de wil om snel te leren mee, op een nieuwe plek en in een nieuwe werktaal.",
+    "chips": [
+      "Open instelling",
+      "Groeimindset",
+      "Flexibel",
+      "Leergierig"
+    ]
+  },
+  "journey": {
+    "title": "Mijn reis",
+    "sub": "Studie en werkervaring, in chronologische volgorde.",
+    "labels": {
+      "resp": "Verantwoordelijkheden",
+      "highlight": "Hoogtepunt",
+      "study": "Studie",
+      "work": "Werk",
+      "current": "Huidige stage"
+    },
+    "cv": {
+      "button": "Download CV",
+      "note": "PDF · 1 pagina · bijgewerkt oktober 2026",
+      "more": "Meer weten?"
+    },
+    "edu": {
+      "title": "Opleiding",
+      "sub": "Opleiding en ervaring vanuit mijn studie",
+      "stat1": "jaar studie",
+      "stat2": "stage, nu bezig",
+      "items": [
+        {
+          "role": "VMBO-TL, Economie & Ondernemen",
+          "org": "College Den Hulster, Venlo",
+          "date": "sep. 2021 – mei 2025",
+          "resp": [
+            "Profiel Economie & Ondernemen in leerjaar 3 en 4."
+          ],
+          "highlight": "Doorgestroomd van havo/vwo naar het VMBO-TL en dit vlot afgerond."
+        },
+        {
+          "role": "MBO 4 Marketing & Communicatie",
+          "org": "De Rooi Pannen",
+          "date": "sep. 2025 – heden",
+          "resp": [
+            "Opdrachten over marketing, communicatie en campagnes."
+          ],
+          "highlight": "De lesstof direct toepassen in een echte stage."
+        },
+        {
+          "role": "Stagiair Marketing & Communicatie",
+          "org": "Bibliotheek Venlo",
+          "date": "sep. 2026 – heden",
+          "resp": [
+            "Contentcreatie",
+            "Promotiecampagnes",
+            "Communicatie-uitingen"
+          ],
+          "highlight": "Mijn studie in de praktijk brengen binnen een echt marketingteam.",
+          "current": true
+        }
+      ]
+    },
+    "work": {
+      "title": "Werkervaring",
+      "sub": "Echte banen in echte teams",
+      "stat1": "jaar werkervaring",
+      "stat2": "werkplekken",
+      "items": [
+        {
+          "role": "Afwasser, daarna kok",
+          "org": "Tref Lunchroom, Venlo",
+          "date": "mrt. 2023 – aug. 2024",
+          "resp": [
+            "Elke zondag en in de vakanties ook doordeweeks."
+          ],
+          "highlight": "Binnen een jaar doorgegroeid naar warme en koude gerechten."
+        },
+        {
+          "role": "Bediening / barmedewerker",
+          "org": "Plein 7, Venlo",
+          "date": "sep. 2024 – aug. 2025",
+          "resp": [
+            "Gastenservice en barshifts, in weekenden en vakanties."
+          ],
+          "highlight": "Na enkele maanden regelmatig barshifts mogen draaien."
+        },
+        {
+          "role": "Zomerbanen",
+          "org": "BCS, Baarlo en uitzendbureau Baantje",
+          "date": "Zomer 2025",
+          "resp": [
+            "Hele werkdagen bij BCS, avondshifts via het uitzendbureau en weekenden bij Plein 7."
+          ],
+          "highlight": "Drie banen tegelijk gedraaid."
+        },
+        {
+          "role": "Bediening",
+          "org": "Wok Palace, Kessel",
+          "date": "nov. 2025 – jan. 2026",
+          "resp": [
+            "Bediening op zondag en woensdag, naast school."
+          ],
+          "highlight": "Werk en studie in balans gehouden."
+        },
+        {
+          "role": "Kok / bediening",
+          "org": "Tramhalte, Blerick",
+          "date": "feb. 2026 – heden",
+          "resp": [
+            "Direct in de keuken begonnen."
+          ],
+          "highlight": "Vaak ingezet in de bediening bij personeelstekort."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "t1": "Laten we",
+    "t2": "iets bouwen",
+    "t3": "dat mensen onthouden.",
+    "sub": "Voor stages, projecten en gesprekken over marketing, sport en AI.",
+    "button": "Start een gesprek",
+    "page": "Contactpagina"
+  },
+  "contact": {
+    "t1": "Laten we samen",
+    "t2": "iets moois maken.",
+    "intro": "Ik ben Danilio, stagiair marketing en communicatie uit Venlo. Als jouw team geeft om merk, sport en digitale ideeën en ruimte heeft voor iemand die hard werkt en snel leert, hoor ik graag van je.",
+    "primary": "Primair contact · mail me hier eerst",
+    "availTitle": "Beschikbaar voor",
+    "availText": "Stages, vooral in het buitenland, en gesprekken over projecten.",
+    "locTitle": "Locatie",
+    "locText": "Venlo, Nederland. Open voor werk in het buitenland.",
+    "formTitle": "Vertel me wat je in gedachten hebt.",
+    "topics": [
+      {
+        "value": "Internship",
+        "label": "Stage"
+      },
+      {
+        "value": "Job opportunity",
+        "label": "Baan"
+      },
+      {
+        "value": "Project or collaboration",
+        "label": "Project"
+      },
+      {
+        "value": "Just saying hi",
+        "label": "Zeg hallo"
+      }
+    ],
+    "name": "Je naam",
+    "org": "Bedrijf of organisatie",
+    "email": "Je e-mailadres",
+    "message": "Bericht",
+    "send": "Verstuur bericht",
+    "note": "Dit opent je e-mailprogramma met het bericht klaar om te versturen.",
+    "sent": "Je e-mailprogramma zou nu moeten openen. Zo niet, mail dan rechtstreeks naar mij.",
+    "greeting": "Hoi Danilio,",
+    "regards": "Met vriendelijke groet,",
+    "subject": "Contact via website",
+    "stage": {
+      "tag": "Huidige stage",
+      "org": "Bibliotheek Venlo",
+      "role": "Stagiair Marketing & Communicatie. Content, campagnes en community.",
+      "future": "Marketeer van de toekomst",
+      "creative": "Creatieve communicator",
+      "nextTitle": "Volgende stap: buitenland",
+      "nextText": "Een stage in sport, merk of digitale innovatie.",
+      "focusTitle": "Focusgebieden",
+      "focusText": "Sportmarketing, AI & innovatie, contentcreatie en community engagement.",
+      "badge": "Open voor stages · Venlo · Nederland · "
+    }
+  },
+  "gate": {
+    "welcome": "Welkom",
+    "tagline": "Een persoonlijke reis door marketing, creativiteit en innovatie.",
+    "label": "Wachtwoord",
+    "enter": "Stap binnen",
+    "error": "Dat is het niet. Probeer opnieuw.",
+    "nosubtle": "Deze browser kan het wachtwoord hier niet controleren.",
+    "need": "Toegang nodig?",
+    "request": "Vraag het wachtwoord aan",
+    "subject": "Toegangsverzoek"
+  },
+  "footer": {
+    "role": "Marketing & Communicatie",
+    "rights": "Alle rechten voorbehouden."
+  }
+}
