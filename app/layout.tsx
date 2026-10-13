@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from 'next';
+import Script from 'next/script';
 import { Hanken_Grotesk, Instrument_Serif } from 'next/font/google';
 import '@/styles/orbit.css';
 import './globals.css';
@@ -55,6 +56,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${serif.variable} ${sans.variable}`}>
       <body>
+        <Script
+  src="https://spoor-analytics.vercel.app/spoor.js"
+  strategy="afterInteractive"
+/>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
         <Providers>
           <Navbar />
